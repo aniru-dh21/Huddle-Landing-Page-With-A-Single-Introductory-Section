@@ -2,6 +2,8 @@
 
 ![Design preview for the Huddle landing page with single introductory section](./design/desktop-preview.jpg)
 
+Live Solution: [Huddle-Landing-Page-With-A-Single-Introductory-Section](https://aniru-dh21.github.io/Huddle-Landing-Page-With-A-Single-Introductory-Section/).
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
